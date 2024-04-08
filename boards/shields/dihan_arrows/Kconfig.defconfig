@@ -1,0 +1,6 @@
+if shield_dihan_arrows
+
+config ZMK_KEYBOARD_NAME
+  default "dihan_arrows"
+
+endif
