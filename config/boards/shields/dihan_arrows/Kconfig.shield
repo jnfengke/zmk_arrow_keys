@@ -1,2 +1,2 @@
 config shield_dihan_arrows
-    def_bool $(shield_list_contains, dihan_arrows)
+    def_bool $(shields_list_contains, dihan_arrows)
